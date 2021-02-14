@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background: #ccc;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+.d-flex {
+    display: flex;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    padding: 20px;
+}
+header p {
+    margin: 0;
+    padding: 0;
+}
+
+.product--img {
+    width: 100%;
+}
